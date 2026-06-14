@@ -1,0 +1,9 @@
+La recepción de información estructurada por parte de los ciudadanos es fundamental 
+para que las plataformas tecnológicas procesen datos de manera automatizada y eficiente. 
+Al utilizar formatos estandarizados como JSON, el servidor puede validar, clasificar y
+almacenar reportes como fallas de iluminación de forma inmediata y sin errores de 
+interpretación humana. Esto agiliza significativamente los tiempos de respuesta 
+institucional ante las problemáticas del entorno urbano. Además, permite estructurar 
+bases de datos limpias para analizar estadísticas y priorizar las demandas comunitarias 
+mediante métricas reales. Sin datos organizados desde el origen, la gestión pública se 
+volvería lenta e ineficaz debido al desorden en el flujo de información.
