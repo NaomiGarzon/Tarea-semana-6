@@ -1,0 +1,11 @@
+Al realizar la prueba de la ruta mediante una petición POST con los datos estructurados en formato JSON, el servidor procesa la solicitud de manera correcta.
+
+La respuesta devuelta por la API en formato JSON es la siguiente:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Con esto se comprueba el correcto funcionamiento del servidor Express bajo el entorno de desarrollo y la lectura exitosa del cuerpo de la petición (req.body).
